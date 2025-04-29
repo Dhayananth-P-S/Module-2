@@ -43,7 +43,7 @@ for i in range(num_rows):
     for j in range(i + 1): 
         print(combination(i, j), end=' ') 
     print()
-
+```
 
 ## Sample Output
 ![image](https://github.com/user-attachments/assets/633ea869-b0d6-42ac-9f83-2b8deeb2fbac)
